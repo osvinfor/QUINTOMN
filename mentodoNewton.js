@@ -1,1 +1,3 @@
-alert("hola Newton");
+function metodoNewton(){
+	alert("hola Newton 2");
+}
